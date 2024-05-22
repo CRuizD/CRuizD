@@ -4,9 +4,6 @@ I consider myself an enthusiastic learner with a constant hunger for new knowled
 I aspire to be part of a team where I can learn from the best and contribute my talent to create projects that positively impact the world. I am eager to take on new challenges, expand my horizons and become a reference in the programming field.
 I look forward to meeting you soon!
 
-Translated with DeepL.com (free version)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-ruiz-devia-2a3b86251) 
 
