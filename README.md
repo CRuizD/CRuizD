@@ -1,5 +1,10 @@
 # 💫 About Me:
-¡Hola! Soy Christian Ruiz Devia, un apasionado programador de 24 años originario de Colombia.<br>Me considero un aprendiz entusiasta con un hambre constante de nuevos conocimientos y desafíos. Me fascina el mundo de la programación y la tecnología, y me apasiona explorar sus infinitas posibilidades.<br>Aspiro a formar parte de un equipo donde pueda aprender de los mejores y contribuir con mi talento para crear proyectos que impacten positivamente al mundo. Estoy ansioso por asumir nuevos retos, expandir mis horizontes y convertirme en un referente en el ámbito de la programación.<br>¡Espero conocerte pronto!
+Hi! I'm Christian Ruiz Devia, a 24 year old passionate programmer from Colombia.
+I consider myself an enthusiastic learner with a constant hunger for new knowledge and challenges. I am fascinated by the world of programming and technology, and I am passionate about exploring its endless possibilities.
+I aspire to be part of a team where I can learn from the best and contribute my talent to create projects that positively impact the world. I am eager to take on new challenges, expand my horizons and become a reference in the programming field.
+I look forward to meeting you soon!
+
+Translated with DeepL.com (free version)
 
 
 ## 🌐 Socials:
